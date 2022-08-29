@@ -2,7 +2,7 @@
 
 # Lab | Comparative report with PowerBi
 
-Refer to the same data source from the previous lab [Marketing_Customer_Analysis](https://github.com/student-IH-labs-and-stuff/lab_comparative_powerbi/tree/main/files_for_lab) for this lab
+Refer to the same data source from the previous lab [Marketing_Customer_Analysis](https://github.com/ironhack-labs/lab-comparative-report-with-powerbi/blob/master/files_for_lab) for this lab.
 
 ### Instructions
 
